@@ -18,7 +18,7 @@ Go to [the webapp](https://github.com/hisarandre/Mediscreen-webapp) to launch th
 
 ### Run local
 
-0. First, clone the Patient repository
+0. First, clone the Assessment repository
 
    To launch the application, you can follow these steps:
 
